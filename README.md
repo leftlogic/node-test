@@ -9,4 +9,4 @@ npm install
 npm start
 ```
 
-The server will start running by default on http://localhost:61913.
+The server will start running by default on [http://localhost:61913](http://localhost:61913).
